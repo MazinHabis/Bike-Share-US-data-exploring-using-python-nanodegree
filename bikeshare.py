@@ -226,6 +226,7 @@ def display_data(df):
             break
         
         start_loc += 5
+        print('thank you for using the program')
         view_data = input("Do you wish to continue?: ").lower()
     
 
