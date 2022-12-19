@@ -4,7 +4,7 @@
 12/19/2022
 
 # Explore-US-Bikeshare-Data
-Udacity Data Analyst Degree - Project II
+Udacity programming for data science Nano Degree 
 
 ### Description
 In this project, I will investigate data related to bike share systems in three major US cities: Chicago, New York City, and Washington. I'll develop a Python script to import the data and answer intriguing questions about it by producing b>descriptive statistics/b>. In addition, I will construct a script that will take raw information and generate an interactive experience in the terminal to present these statistics.
