@@ -37,4 +37,6 @@ To complete this project, i will use:
 
 ## The Interactive Experience
 For a more interactive experience, I wrote a script that took raw input from the user and proccess the data into an output based on the request.
+![picture of an interaction with the program](https://cdn.discordapp.com/attachments/951402953741332520/1054426709732102184/image.png)
+![picture of an interaction with the program](https://cdn.discordapp.com/attachments/951402953741332520/1054426801562206228/image.png)
 
